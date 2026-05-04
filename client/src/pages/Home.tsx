@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 // Image URLs from original site
 const IMG = {
-  fv: "https://diet-seikotu-seitai.com/08/wp-content/uploads/2025/05/bivari-karasuma-fv3.webp",
+  fv: "/manus-storage/fv-new-full_c7f3f6da.png",
   topic: "https://diet-seikotu-seitai.com/08/wp-content/uploads/2025/04/vibari-topic.webp",
   hpb200: "https://diet-seikotu-seitai.com/02/wp-content/uploads/2025/06/katagihara-hpb200.webp",
   openOffer: "https://diet-seikotu-seitai.com/08/wp-content/uploads/2025/04/bivari-open-offer.webp",
